@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "the jump"
+tags: [random]
+date:   2019-08-30 20:54:00
+---
+Well, setting up a jekyll blog is not that hard at all.

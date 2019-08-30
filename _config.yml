@@ -1,0 +1,28 @@
+# Site settings
+title: luciano's notes
+description: >
+    luciano's notes  
+author: luciano a.c.
+email: 
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
+github_username:  lucianoac
+
+# gitalk
+gitalk_clientid: 
+gitalk_clientsecret: 
+gitalk_repo: 
+
+
+# Build settings
+include: [_pages]
+markdown: kramdown
+permalink: /:year/:month/:title
+sass:
+    style: compressed
+
+plugins:
+  - jemoji
+  - jekyll-sitemap
+
+
